@@ -1,7 +1,14 @@
 body {
     background-color: #000000;
 }
+
 h1, h6, p {
     color: #f6a2bf;
     font-family: 'Baloo Bhaina 2', cursive;
 }
+
+.btn-pink {
+    background-color: #f6a2bf;
+    color: #000000;
+}
+
