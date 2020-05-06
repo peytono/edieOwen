@@ -15,3 +15,8 @@ h1, h2, h6, p {
 .close {
     color: #f6a2bf;
 }
+
+.site-footer {
+    background-color: #f6a2bf;
+    color: black;
+}

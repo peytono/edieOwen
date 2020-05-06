@@ -1,5 +1,5 @@
 $(function() {
-    $("myImg").click(function(){
-        $('#myModal').modal('show');
+    $("#ediePark").click(function(){
+        $('#modalOne').modal('show');
     });
 });
