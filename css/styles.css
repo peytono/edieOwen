@@ -13,10 +13,18 @@ h1, h2, h6, p {
 }
 
 .close {
-    color: #f6a2bf;
+    background-color: #f6a2bf;
 }
 
 .site-footer {
     background-color: #f6a2bf;
     color: black;
 }
+
+.modal {
+    width: 75vh;
+    height: 80vh;
+    margin: auto;
+}
+
+.img-center {margin:0 auto;}
