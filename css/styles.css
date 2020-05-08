@@ -27,4 +27,7 @@ h1, h2, h6, p {
     margin: auto;
 }
 
-.img-center {margin:0 auto;}
+.border-bottom {
+    color: #f6a2bf;
+
+}
