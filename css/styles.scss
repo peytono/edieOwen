@@ -29,7 +29,8 @@ h1, h2, h6, p {
     margin: auto;
 }
 
-.border-bottom {
-    color: $color-pink;
-
+div{
+    .border-bottom {
+        color: $color-pink;
+    }
 }
