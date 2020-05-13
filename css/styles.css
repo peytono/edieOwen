@@ -1,33 +1,25 @@
 body {
-    background-color: #000000;
-}
+  background-color: #000000; }
 
 h1, h2, h6, p {
-    color: #f6a2bf;
-    font-family: 'Baloo Bhaina 2', cursive;
-}
+  color: #f6a2bf;
+  font-family: 'Baloo Bhaina 2', cursive; }
 
 .btn-pink {
-    background-color: #f6a2bf;
-    color: #000000;
-}
+  background-color: #f6a2bf;
+  color: black; }
 
 .close {
-    background-color: #f6a2bf;
-}
+  background-color: #f6a2bf; }
 
 .site-footer {
-    background-color: #f6a2bf;
-    color: black;
-}
+  background-color: #f6a2bf;
+  color: black; }
 
 .modal {
-    width: 75vh;
-    height: 80vh;
-    margin: auto;
-}
+  width: 75vh;
+  height: 80vh;
+  margin: auto; }
 
 .border-bottom {
-    color: #f6a2bf;
-
-}
+  color: #f6a2bf; }

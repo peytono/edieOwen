@@ -1,0 +1,35 @@
+$color-pink: #f6a2bf;
+
+body {
+    background-color: #000000;
+}
+
+h1, h2, h6, p {
+    color: $color-pink;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.btn-pink {
+    background-color: $color-pink;
+    color: black;
+}
+
+.close {
+    background-color: $color-pink;
+}
+
+.site-footer {
+    background-color: $color-pink;
+    color: black;
+}
+
+.modal {
+    width: 75vh;
+    height: 80vh;
+    margin: auto;
+}
+
+.border-bottom {
+    color: $color-pink;
+
+}
